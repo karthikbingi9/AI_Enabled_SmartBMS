@@ -1,0 +1,6 @@
+{
+  "name": "ZEROTH – AI-Powered Smart Battery Management System",
+  "description": "AI-Enabled Smart Battery Management System for Electric Vehicles with State-of-Health Prediction, Fault Detection, and Safe Adaptive Charging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
